@@ -1,4 +1,4 @@
-════════════════════════════════ -->
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,48:5B2A86,100:00D9FF&height=220&section=header&text=Gianfranco&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=PROGRAMMING%20%7C%20LINUX%20%7C%20OPEN%20SOURCE&descAlignY=58&descSize=14"
@@ -47,10 +47,10 @@
       <pre><code>┌──(gianfranco㉿github)-[~]
 └─$ fastfetch
 
-OS       Arch Linux
-WM       i3 / X11
+OS       OS: EndeavourOS x86_64
+WM       i3
 SHELL    Bash
-EDITOR   Neovim / VS Code
+EDITOR    VS Code
 FOCUS    Linux · Networks
          Open Source · Security
 STATUS   Always learning
@@ -164,13 +164,13 @@ Podés usar una imagen propia alojada en el repositorio si querés mostrar una c
 <p align="center">
   <!-- Estadísticas generales: commits, PRs, issues, estrellas y ranking. -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=9D4EDD&custom_title=GitHub%20Stats"
+    src="https://github-readme-stats.vercel.app/api?username=GianfrancoNegri&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=9D4EDD&custom_title=GitHub%20Stats"
     alt="Estadísticas generales de GitHub"
     height="175"
   />
   <!-- Lenguajes más presentes en los repositorios públicos. -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianfrancoNegri&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"
     alt="Lenguajes más usados"
     height="175"
   />
@@ -179,7 +179,7 @@ Podés usar una imagen propia alojada en el repositorio si querés mostrar una c
 <p align="center">
   <!-- Racha actual y máxima de contribuciones. -->
   <img
-    src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=GianfrancoNegri&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E"
     alt="Racha de contribuciones de GitHub"
     width="70%"
   />
@@ -190,29 +190,9 @@ Podés usar una imagen propia alojada en el repositorio si querés mostrar una c
 ---
 
 <!-- ═══════════════════════ SPOTIFY & EXTRAS ════════════════════════════ -->
-<h2 align="center">⟡ NOW PLAYING / OFFLINE MODE</h2>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=r5bsuvucakjbz31uinz7px6hn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=e01b24&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-<!-- SPOTIFY NOW PLAYING:
-1. Abrí https://github.com/kittinan/spotify-github-profile y conectá tu cuenta con Spotify.
-2. Obtené tu UID en el servicio y reemplazá TU_SPOTIFY_UID en la URL de abajo.
-3. La tarjeta es una imagen dinámica; al hacer clic abre el proyecto del widget.
--->
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0D1117&interchange=false&bar_color=9D4EDD&bar_color_cover=false"
-      alt="Mi canción actual en Spotify — configurá TU_SPOTIFY_UID para activarlo"
-      width="420"
-    />
-  </a>
-</p>
 
-<!-- ALTERNATIVA PARA UNA CANCIÓN O PLAYLIST FIJA: cambiá el enlace por el tuyo. -->
-<p align="center">
-  <a href="https://open.spotify.com/playlist/ID_DE_TU_PLAYLIST">
-    <img src="https://img.shields.io/badge/PLAYLIST-Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escuchar mi playlist en Spotify" />
-  </a>
-</p>
 
 <!-- SPOTIFY CODE / SCAN CODE:
 Descargá el código de Spotify de una canción, álbum o playlist y guardalo en tu repositorio en:
