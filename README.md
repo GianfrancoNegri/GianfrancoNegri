@@ -60,20 +60,12 @@ EDITOR   Visual Studio Code
 
 ---
 
-
 <!-- STACK & TOOLKIT -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=transparent&amp;height=75&amp;text=STACK%20%26%20TOOLKIT&amp;fontSize=30&amp;fontColor=C084FC&amp;fontAlignY=55"
-    width="100%"
-    alt="Stack and Toolkit"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=STACK%20AND%20TOOLKIT&fontSize=27&fontColor=C084FC&fontAlignY=55" width="100%" alt="Stack and Toolkit" />
 </p>
-
-<p align="center">
-  <sub>Technologies · Tools · Systems</sub>
-</p>
+<p align="center"><sub>Technologies · Tools · Systems</sub></p>
 
 <table width="100%">
 <tr>
@@ -124,11 +116,7 @@ EDITOR   Visual Studio Code
 </td>
 
 <td width="16%" align="center" valign="middle">
-  <img
-    src="./cara.jpg"
-    width="140"
-    alt="Imagen de perfil"
-  />
+  <img src="./assets/cara.jpg" width="100%" alt="Imagen de perfil" />
 </td>
 
 <td width="42%" align="center" valign="middle">
@@ -174,11 +162,7 @@ EDITOR   Visual Studio Code
 </table>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7C3AED,50:EC4899,100:F59E0B&amp;height=2"
-    width="100%"
-    alt="Divisor astral"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:EC4899,100:F59E0B&height=2" width="100%" alt="Divisor astral" />
 </p>
 
 <!-- PROYECTOS -->
@@ -261,30 +245,41 @@ EDITOR   Visual Studio Code
 <!-- BEYOND THE TERMINAL -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=BEYOND%20THE%20TERMINAL&fontSize=26&fontColor=C084FC&fontAlignY=55" width="100%" alt="Beyond the Terminal" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7F1D1D,100:EF4444&height=45&text=BEYOND%20THE%20TERMINAL&fontSize=22&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="Beyond the Terminal" />
 </p>
-<p align="center"><sub>Things I enjoy outside of code</sub></p>
+<p align="center"><sub>Code, systems, rhythm, and passion</sub></p>
 
 <table width="100%">
 <tr>
 <td width="62%" valign="top">
-<h3> Curiosity beyond the screen</h3>
-<p>Me gusta desarmar cosas y volver a armarlas: computadoras, celulares y otros dispositivos. Me interesa descubrir cómo funcionan por dentro, cómo se conectan sus componentes y qué hay detrás de la tecnología que usamos todos los días.</p>
-<h3> Games &amp; downtime</h3>
-<p>Cuando quiero desconectar, suelo jugar a <strong>Counter-Strike 2, osu!, Valorant y Fortnite</strong>. Cada uno tiene algo distinto: precisión, ritmo, estrategia o simplemente pasar un buen rato.</p>
-<h3> Stories &amp; fiction</h3>
-<p>Disfruto escribir novelas, desarrollar ideas e imaginar mundos y personajes. También me gusta leer novelas y mangas, ver anime y seguir series de Netflix.</p>
-<h3> Running</h3>
-<p>Salir a correr es otra forma de despejarme, cambiar de ambiente y tomarme un descanso de las pantallas.</p>
+
+<h3> Linux Customization & Tinkering</h3>
+<p>Me apasiona configurar y exprimir al máximo entornos de escritorio en Linux (Arch Linux / EndeavourOS con i3wm), diseñando cada detalle de los dotfiles, la terminal y el flujo de trabajo diario, además de cacharrear con hardware.</p>
+
+<h3> Colón de Santa Fe</h3>
+<p>Llevar la pasión futbolera en la sangre: hincha fanático de <strong>Colón de Santa Fe</strong>, combinando el sentimiento por el club con proyectos de desarrollo y diseño web dedicados a sus colores.</p>
+
+<h3> Sound, Trap & J-Rock</h3>
+<p>La música marca el ritmo de cada línea de código. Disfruto explorando desde texturas electrónicas rápidas hasta ritmos urbanos y alternativos que inspiran mi creatividad.</p>
+<details>
+  <summary><b>Artistas y géneros frecuentes</b></summary>
+  <p><sub> Trap, Rap & Alternativo: The Neighbourhood, Milo J, YSY A, Cro.<br>
+   Guitarras y ritmos: J-Rock, J-Core, Breakcore.<br>
+   Producción: LMMS, PipeWire.</sub></p>
+</details>
+
+<h3> Writing & Running</h3>
+<p>Cuando apago la terminal, me dedico a escribir novelas y estructurar universos de ficción. Para despejar la mente y recargar energía, salir a correr es una constante.</p>
+
 </td>
 <td width="38%" valign="middle" align="center">
-<img src="./assets/coffee-terminal.jpg" width="100%" alt="Arte ASCII de una taza de café con estética de terminal" />
-<p align="center"><sub>Curiosity doesn't end at the screen.</sub></p>
+  <img src="./assets/coffee-terminal.jpg" width="100%" alt="Arte ASCII de una taza de café" />
+  <p align="center"><sub>Stay curious. Red & Black.</sub></p>
+  <br>
+  
 </td>
 </tr>
 </table>
-
----
 
 <!-- CIERRE -->
 
