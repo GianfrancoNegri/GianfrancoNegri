@@ -1,135 +1,259 @@
+════════════════════════════════ -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,48:5B2A86,100:00D9FF&height=220&section=header&text=Gianfranco&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=PROGRAMMING%20%7C%20LINUX%20%7C%20OPEN%20SOURCE&descAlignY=58&descSize=14"
+    alt="Banner de Gianfranco: programación, Linux y software libre"
+    width="100%"
+  />
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=GianfrancoNegri&color=0e75b6&style=flat-square)](https://github.com/GianfrancoNegri)
-[![GitHub Stars](https://img.shields.io/github/stars/GianfrancoNegri?color=f1e05a&style=flat-square&logo=github)](https://github.com/GianfrancoNegri)
-[![Followers](https://img.shields.io/github/followers/GianfrancoNegri?color=238636&style=flat-square&logo=github&label=Followers)](https://github.com/GianfrancoNegri)
+<!-- EDITÁ las frases del parámetro lines para cambiar la animación de escritura. -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Explorando+el+software+libre;Aprendiendo+Linux%2C+redes+y+seguridad;Construyendo+cosas+para+entender+c%C3%B3mo+funcionan"
+    alt="Animación: explorando software libre, Linux, redes y seguridad"
+  />
+</p>
 
+<!-- ═══════════════════════ PRESENTACIÓN EN DOS COLUMNAS ════════════════ -->
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h2>¡Hola! Soy Gianfranco 👋</h2>
+      <p>
+        Soy estudiante de programación y me interesa entender cómo funciona la tecnología,
+        desde el software hasta la infraestructura que lo hace posible.
+      </p>
+      <p>
+        Me atraen especialmente el <strong>software libre</strong>, <strong>Linux</strong>,
+        la <strong>ciberseguridad</strong> y los sistemas y redes. Disfruto experimentar,
+        automatizar tareas y aprender construyendo proyectos propios.
+      </p>
+      <blockquote>
+        <em>“Carpe diem for himself and laissez-faire for others.”</em>
+      </blockquote>
+      <p>
+        <a href="https://github.com/TU_USUARIO">
+          <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        <a href="mailto:TU_EMAIL@example.com">
+          <img src="https://img.shields.io/badge/Email-Contact-5B2A86?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>▌ SYSTEM SNAPSHOT</h3>
+      <p><em>Un pequeño guiño a la terminal Linux / Fastfetch.</em></p>
+      <pre><code>┌──(gianfranco㉿github)-[~]
+└─$ fastfetch
+
+OS       Arch Linux
+WM       i3 / X11
+SHELL    Bash
+EDITOR   Neovim / VS Code
+FOCUS    Linux · Networks
+         Open Source · Security
+STATUS   Always learning
+
+┌────────────────────────────┐
+│  curiosity > comfort_zone  │
+└────────────────────────────┘</code></pre>
+      <p><sub>Personalizá el sistema, shell y editor para que reflejen tu entorno actual.</sub></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-Learning%20by%20building-5B2A86?style=flat-square" alt="Estado: aprender construyendo" />
+  <img src="https://img.shields.io/badge/PLATFORM-Linux-00D9FF?style=flat-square&logo=linux&logoColor=0D1117" alt="Plataforma: Linux" />
+  <img src="https://img.shields.io/badge/MINDSET-Curious-0D1117?style=flat-square&logo=github&logoColor=00D9FF" alt="Mentalidad curiosa" />
+</p>
 
 ---
 
-##  About Me
+<!-- ═════════════════════ SISTEMAS, LENGUAJES Y HERRAMIENTAS ════════════ -->
+<h2 align="center">⟡ STACK &amp; TOOLKIT</h2>
+<p align="center"><sub>Íconos sin etiquetas visibles; pasá el cursor por encima para ver el nombre.</sub></p>
 
--  Estudiante de programación
--  Apasionado por la Ciberseguridad y Machine Learning.
--  Siempre trato de aprender nuevas tecnologías
--  Busco la excelencia en cada proyecto
-
-
-##  Languages & Tools
-
-##  Ciberseguridad
+<h3>01 / Sistemas operativos</h3>
 <p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <!-- Añadí o quitá íconos según lo que uses o estés aprendiendo. -->
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="38" alt="Linux" title="Linux" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="38" alt="Arch Linux" title="Arch Linux" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="38" alt="Debian" title="Debian" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="38" alt="Ubuntu" title="Ubuntu" />
 </p>
 
-##  Game Dev
+<h3>02 / Lenguajes &amp; desarrollo</h3>
 <p>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="38" alt="C++" title="C++" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="38" alt="Bash" title="Bash" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="38" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="38" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="38" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" height="38" alt="Git" title="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="38" alt="GitHub" title="GitHub" />
 </p>
 
-##  Herramientas
+<h3>03 / Infraestructura &amp; herramientas</h3>
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-D4A574?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kimi_AI-1A1A2E?style=for-the-badge&logo=kimiai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-FF6B6B?style=for-the-badge&logo=antigravity&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="Docker" title="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="38" alt="Wireshark" title="Wireshark" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="38" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gnometerminal/241F31" height="38" alt="Terminal" title="Terminal" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="38" alt="Visual Studio Code" title="Visual Studio Code" />
 </p>
 
-##  Diseño
+<h3>04 / Áreas de interés</h3>
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Exploring-0D1117?style=flat-square&logo=protonvpn&logoColor=00D9FF" alt="Ciberseguridad" />
+  <img src="https://img.shields.io/badge/Networking-Exploring-0D1117?style=flat-square&logo=cisco&logoColor=00D9FF" alt="Redes" />
+  <img src="https://img.shields.io/badge/Automation-Exploring-0D1117?style=flat-square&logo=gnubash&logoColor=00D9FF" alt="Automatización" />
+  <img src="https://img.shields.io/badge/Open%20Source-Always-0D1117?style=flat-square&logo=opensourceinitiative&logoColor=00D9FF" alt="Software libre y código abierto" />
 </p>
 
-##  Cloud
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</p>
-
-##  Base de Datos
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
-##  Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-##  Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-##  Lenguajes de Programación
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-</p>
----
-
-##  GitHub Streak
-
-
+<sub>Nota: dejá visibles solo las herramientas que usás, conocés o estás estudiando. Los íconos se sirven desde Simple Icons y pueden depender de servicios externos.</sub>
 
 ---
 
-##  GitHub Trophies
+<!-- ═════════════════════════ PROYECTOS DESTACADOS ══════════════════════ -->
+<h2 align="center">⟡ PROYECTOS DESTACADOS</h2>
+<p align="center"><sub>Experimentos, herramientas y proyectos en construcción.</sub></p>
+
+<!--
+PLANTILLA PARA CADA PROYECTO:
+Copiá el bloque <tr> completo, reemplazá los campos y borrá este comentario al terminar.
+Podés usar una imagen propia alojada en el repositorio si querés mostrar una captura.
+-->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⌁ Proyecto 01 · Próximamente</h3>
+      <p><em>[Nombre del proyecto]</em></p>
+      <p>[Una descripción breve: qué problema resuelve y qué aprendiste al crearlo.]</p>
+      <p>
+        <sub>Stack: [C++ · Bash · Python · etc.]</sub><br />
+        <a href="https://github.com/TU_USUARIO/REPOSITORIO_1">↗ Ver repositorio</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⌁ Proyecto 02 · Próximamente</h3>
+      <p><em>[Nombre del proyecto]</em></p>
+      <p>[Descripción del proyecto, objetivo y característica principal.]</p>
+      <p>
+        <sub>Stack: [Tecnologías utilizadas]</sub><br />
+        <a href="https://github.com/TU_USUARIO/REPOSITORIO_2">↗ Ver repositorio</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- OPCIONAL: reemplazá los enlaces de ejemplo por repositorios reales o eliminá esta tarjeta. -->
+<p align="center">
+  <a href="https://github.com/TU_USUARIO?tab=repositories">
+    <img src="https://img.shields.io/badge/Explorar%20repositorios-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explorar repositorios de GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🔗 Connect With Me
+<!-- ═══════════════════════ GITHUB ANALYTICS ════════════════════════════ -->
+<h2 align="center">⟡ GITHUB ANALYTICS</h2>
+<p align="center"><sub>Actividad pública de GitHub. Las tarjetas pueden tardar en actualizarse o sufrir límites del servicio.</sub></p>
 
-<div align="center">
+<p align="center">
+  <!-- Estadísticas generales: commits, PRs, issues, estrellas y ranking. -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=9D4EDD&custom_title=GitHub%20Stats"
+    alt="Estadísticas generales de GitHub"
+    height="175"
+  />
+  <!-- Lenguajes más presentes en los repositorios públicos. -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"
+    alt="Lenguajes más usados"
+    height="175"
+  />
+</p>
 
-<a href="mailto:gianfranconegricontacto@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/gianfranconegri">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://discord.com/users/neirux">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+<p align="center">
+  <!-- Racha actual y máxima de contribuciones. -->
+  <img
+    src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E"
+    alt="Racha de contribuciones de GitHub"
+    width="70%"
+  />
+</p>
 
-</div>
-
-
+<sub>Estas tarjetas suelen mostrar actividad pública y dependen de servicios externos. No representan necesariamente estadísticas privadas.</sub>
 
 ---
 
-## ☕ Support Me
+<!-- ═══════════════════════ SPOTIFY & EXTRAS ════════════════════════════ -->
+<h2 align="center">⟡ NOW PLAYING / OFFLINE MODE</h2>
 
+<!-- SPOTIFY NOW PLAYING:
+1. Abrí https://github.com/kittinan/spotify-github-profile y conectá tu cuenta con Spotify.
+2. Obtené tu UID en el servicio y reemplazá TU_SPOTIFY_UID en la URL de abajo.
+3. La tarjeta es una imagen dinámica; al hacer clic abre el proyecto del widget.
+-->
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0D1117&interchange=false&bar_color=9D4EDD&bar_color_cover=false"
+      alt="Mi canción actual en Spotify — configurá TU_SPOTIFY_UID para activarlo"
+      width="420"
+    />
+  </a>
+</p>
 
+<!-- ALTERNATIVA PARA UNA CANCIÓN O PLAYLIST FIJA: cambiá el enlace por el tuyo. -->
+<p align="center">
+  <a href="https://open.spotify.com/playlist/ID_DE_TU_PLAYLIST">
+    <img src="https://img.shields.io/badge/PLAYLIST-Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Escuchar mi playlist en Spotify" />
+  </a>
+</p>
 
-&lt;/div&gt;
+<!-- SPOTIFY CODE / SCAN CODE:
+Descargá el código de Spotify de una canción, álbum o playlist y guardalo en tu repositorio en:
+assets/spotify-code.png
+Después descomentá el bloque siguiente. El directorio y el archivo deben existir para que se vea.
+
+<p align="center">
+  <img src="./assets/spotify-code.png" width="180" alt="Spotify Code de mi canción o playlist favorita" />
+  <br />
+  <sub>Escaneá el código con la cámara de Spotify.</sub>
+</p>
+-->
+
+---
+
+<!-- ═════════════════════ REDES, CONTACTO Y VISITAS ═════════════════════ -->
+<h2 align="center">⟡ FIND ME ELSEWHERE</h2>
+<p align="center">
+  <!-- Reemplazá cada URL y eliminá las redes que no quieras mostrar. -->
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN/" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="34" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/TU_DISCORD_ID" title="Discord">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="34" alt="Discord" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:TU_EMAIL@example.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="34" alt="Email" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/TU_USUARIO" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" height="34" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Cambiá TU_USUARIO por tu usuario de GitHub. Este contador registra visitas al perfil. -->
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=PROFILE%20VIEWS&color=5B2A86&style=flat-square" alt="Contador de visitas al perfil" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:5B2A86,100:00D9FF&height=2&section=footer" alt="Divisor decorativo" width="100%" />
+  <br />
+  <sub><strong>“Stay curious. Understand the system. Build something useful.”</strong></sub><br />
+  <sub>Diseñado con Markdown, HTML y un poco de terminal. · Última actualización: [MES / AÑO]</sub>
+</p>
